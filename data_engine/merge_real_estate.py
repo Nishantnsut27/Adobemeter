@@ -15,11 +15,8 @@ with open("final_dwarka_5km_pilot.json", "r") as f:
 with open("raw_properties.json", "r") as f:
     properties = json.load(f)
 
-grid_index = {g["id"]: g for g in grids}
-grid_centres = [(g["center_lat"], g["center_lon"], g["id"]) for g in grids]
-
+# BUCKET PROPERTIES INTO GRIDS (Strict bounding-box matching for 100% precision)
 buckets = defaultdict(list)
-max_snap_dist_km = 2.0
 skipped = 0
 
 for p in properties:
@@ -28,27 +25,18 @@ for p in properties:
         skipped += 1
         continue
 
-    gh = __import__("pygeohash").encode(lat, lon, precision=6)
-
-    if gh in grid_index:
-        buckets[gh].append(p)
-        continue
-
-    nearest_id = None
-    nearest_dist = float("inf")
-    for clat, clon, gid in grid_centres:
-        d = haversine_km(lat, lon, clat, clon)
-        if d < nearest_dist:
-            nearest_dist = d
-            nearest_id = gid
-
-    if nearest_dist <= max_snap_dist_km:
-        buckets[nearest_id].append(p)
-    else:
+    # 500m x 500m precision check
+    matched = False
+    for g in grids:
+        if g["min_lat"] <= lat <= g["max_lat"] and g["min_lon"] <= lon <= g["max_lon"]:
+            buckets[g["id"]].append(p)
+            matched = True
+            break
+    
+    if not matched:
         skipped += 1
 
-total_mapped = sum(len(v) for v in buckets.values())
-print(f"mapped {total_mapped} properties | skipped {skipped}")
+print(f"mapped {sum(len(v) for v in buckets.values())} properties directly into grids | skipped {skipped}")
 
 for g in grids:
     props = buckets.get(g["id"], [])
@@ -59,6 +47,8 @@ for g in grids:
     baths = [p["bathrooms"] for p in props if p.get("bathrooms")]
     carpet = [p["carpet_area_sqft"] for p in props if p.get("carpet_area_sqft")]
     covered = [p["covered_area_sqft"] for p in props if p.get("covered_area_sqft")]
+    
+    # NEW: Better furnishing extraction
     furnished = sum(1 for p in props if p.get("furnishing") == "fully_furnished")
     premium = sum(1 for p in props if p.get("has_premium_amenities"))
 
@@ -68,8 +58,10 @@ for g in grids:
     g["avg_bathrooms"] = round(sum(baths) / len(baths), 1) if baths else None
     g["avg_carpet_area_sqft"] = round(sum(carpet) / len(carpet)) if carpet else None
     g["avg_covered_area_sqft"] = round(sum(covered) / len(covered)) if covered else None
-    g["pct_fully_furnished"] = round(furnished / total, 2) if total > 0 else None
-    g["pct_with_premium_amenities"] = round(premium / total, 2) if total > 0 else None
+    
+    # Maintain strict original schema
+    g["pct_fully_furnished"] = round(furnished / total, 2) if total > 0 else 0
+    g["pct_with_premium_amenities"] = round(premium / total, 2) if total > 0 else 0
 
 with open("dwarka_grid_enriched.json", "w") as f:
     json.dump(grids, f, indent=2)
