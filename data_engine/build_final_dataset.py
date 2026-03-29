@@ -164,31 +164,24 @@ def run_pipeline():
     for g in grids:
         print(f"processing grid {count}/{total}...")
         
-        # generate geohash for spatial indexing
         g['id'] = pygeohash.encode(g['center_lat'], g['center_lon'], precision=6)
         
-        # get base osm stats
         metrics = get_b1_metrics_from_overpass(g['min_lat'], g['min_lon'], g['max_lat'], g['max_lon'])
         for k, v in metrics.items():
             g[k] = v
             
-        # determine primary landuse type
         g['grid_type'] = get_landuse_classification(g['min_lat'], g['min_lon'], g['max_lat'], g['max_lon'])
         
-        time.sleep(1.5) # respect rate limits
+        time.sleep(1.5)
         
-        # extract satellite night light data
         g['night_light_intensity'] = get_b2_nightlight_nasa(g['center_lat'], g['center_lon'])
         
-        # calculate distances
         mall_dist, metro_dist = get_b2_distances_from_overpass(g['center_lat'], g['center_lon'])
         g['dist_nearest_mall_km'] = mall_dist
         g['dist_nearest_metro_km'] = metro_dist
         
-        # target variable (to be scraped later)
         g['avg_rent'] = None
         
-        # cleanup old nested format
         g.pop('b1_metrics', None)
         g.pop('b2_environment', None)
         g.pop('b3_real_estate', None)
