@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "Grid_0_0",
+    "center_lat": 28.58413,
+    "center_lon": 77.01571,
+    "min_lat": 28.58188,
+    "min_lon": 77.01315,
+    "max_lat": 28.58638,
+    "max_lon": 77.01828,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_0_1",
+    "center_lat": 28.58413,
+    "center_lon": 77.02084,
+    "min_lat": 28.58188,
+    "min_lon": 77.01828,
+    "max_lat": 28.58638,
+    "max_lon": 77.02341,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_0_2",
+    "center_lat": 28.58413,
+    "center_lon": 77.02597,
+    "min_lat": 28.58188,
+    "min_lon": 77.02341,
+    "max_lat": 28.58638,
+    "max_lon": 77.02854,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_0_3",
+    "center_lat": 28.58413,
+    "center_lon": 77.0311,
+    "min_lat": 28.58188,
+    "min_lon": 77.02854,
+    "max_lat": 28.58638,
+    "max_lon": 77.03367,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_0_4",
+    "center_lat": 28.58413,
+    "center_lon": 77.03623,
+    "min_lat": 28.58188,
+    "min_lon": 77.03367,
+    "max_lat": 28.58638,
+    "max_lon": 77.0388,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_0_5",
+    "center_lat": 28.58413,
+    "center_lon": 77.04137,
+    "min_lat": 28.58188,
+    "min_lon": 77.0388,
+    "max_lat": 28.58638,
+    "max_lon": 77.04393,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_0_6",
+    "center_lat": 28.58413,
+    "center_lon": 77.0465,
+    "min_lat": 28.58188,
+    "min_lon": 77.04393,
+    "max_lat": 28.58638,
+    "max_lon": 77.04906,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_0_7",
+    "center_lat": 28.58413,
+    "center_lon": 77.05163,
+    "min_lat": 28.58188,
+    "min_lon": 77.04906,
+    "max_lat": 28.58638,
+    "max_lon": 77.05419,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_0_8",
+    "center_lat": 28.58413,
+    "center_lon": 77.05676,
+    "min_lat": 28.58188,
+    "min_lon": 77.05419,
+    "max_lat": 28.58638,
+    "max_lon": 77.05932,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_0_9",
+    "center_lat": 28.58413,
+    "center_lon": 77.06189,
+    "min_lat": 28.58188,
+    "min_lon": 77.05932,
+    "max_lat": 28.58638,
+    "max_lon": 77.06445,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_1_0",
+    "center_lat": 28.58863,
+    "center_lon": 77.01571,
+    "min_lat": 28.58638,
+    "min_lon": 77.01315,
+    "max_lat": 28.59089,
+    "max_lon": 77.01828,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_1_1",
+    "center_lat": 28.58863,
+    "center_lon": 77.02084,
+    "min_lat": 28.58638,
+    "min_lon": 77.01828,
+    "max_lat": 28.59089,
+    "max_lon": 77.02341,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_1_2",
+    "center_lat": 28.58863,
+    "center_lon": 77.02597,
+    "min_lat": 28.58638,
+    "min_lon": 77.02341,
+    "max_lat": 28.59089,
+    "max_lon": 77.02854,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_1_3",
+    "center_lat": 28.58863,
+    "center_lon": 77.0311,
+    "min_lat": 28.58638,
+    "min_lon": 77.02854,
+    "max_lat": 28.59089,
+    "max_lon": 77.03367,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_1_4",
+    "center_lat": 28.58863,
+    "center_lon": 77.03623,
+    "min_lat": 28.58638,
+    "min_lon": 77.03367,
+    "max_lat": 28.59089,
+    "max_lon": 77.0388,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_1_5",
+    "center_lat": 28.58863,
+    "center_lon": 77.04137,
+    "min_lat": 28.58638,
+    "min_lon": 77.0388,
+    "max_lat": 28.59089,
+    "max_lon": 77.04393,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_1_6",
+    "center_lat": 28.58863,
+    "center_lon": 77.0465,
+    "min_lat": 28.58638,
+    "min_lon": 77.04393,
+    "max_lat": 28.59089,
+    "max_lon": 77.04906,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_1_7",
+    "center_lat": 28.58863,
+    "center_lon": 77.05163,
+    "min_lat": 28.58638,
+    "min_lon": 77.04906,
+    "max_lat": 28.59089,
+    "max_lon": 77.05419,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_1_8",
+    "center_lat": 28.58863,
+    "center_lon": 77.05676,
+    "min_lat": 28.58638,
+    "min_lon": 77.05419,
+    "max_lat": 28.59089,
+    "max_lon": 77.05932,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_1_9",
+    "center_lat": 28.58863,
+    "center_lon": 77.06189,
+    "min_lat": 28.58638,
+    "min_lon": 77.05932,
+    "max_lat": 28.59089,
+    "max_lon": 77.06445,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_2_0",
+    "center_lat": 28.59314,
+    "center_lon": 77.01571,
+    "min_lat": 28.59089,
+    "min_lon": 77.01315,
+    "max_lat": 28.59539,
+    "max_lon": 77.01828,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_2_1",
+    "center_lat": 28.59314,
+    "center_lon": 77.02084,
+    "min_lat": 28.59089,
+    "min_lon": 77.01828,
+    "max_lat": 28.59539,
+    "max_lon": 77.02341,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_2_2",
+    "center_lat": 28.59314,
+    "center_lon": 77.02597,
+    "min_lat": 28.59089,
+    "min_lon": 77.02341,
+    "max_lat": 28.59539,
+    "max_lon": 77.02854,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_2_3",
+    "center_lat": 28.59314,
+    "center_lon": 77.0311,
+    "min_lat": 28.59089,
+    "min_lon": 77.02854,
+    "max_lat": 28.59539,
+    "max_lon": 77.03367,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_2_4",
+    "center_lat": 28.59314,
+    "center_lon": 77.03623,
+    "min_lat": 28.59089,
+    "min_lon": 77.03367,
+    "max_lat": 28.59539,
+    "max_lon": 77.0388,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_2_5",
+    "center_lat": 28.59314,
+    "center_lon": 77.04137,
+    "min_lat": 28.59089,
+    "min_lon": 77.0388,
+    "max_lat": 28.59539,
+    "max_lon": 77.04393,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_2_6",
+    "center_lat": 28.59314,
+    "center_lon": 77.0465,
+    "min_lat": 28.59089,
+    "min_lon": 77.04393,
+    "max_lat": 28.59539,
+    "max_lon": 77.04906,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_2_7",
+    "center_lat": 28.59314,
+    "center_lon": 77.05163,
+    "min_lat": 28.59089,
+    "min_lon": 77.04906,
+    "max_lat": 28.59539,
+    "max_lon": 77.05419,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_2_8",
+    "center_lat": 28.59314,
+    "center_lon": 77.05676,
+    "min_lat": 28.59089,
+    "min_lon": 77.05419,
+    "max_lat": 28.59539,
+    "max_lon": 77.05932,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_2_9",
+    "center_lat": 28.59314,
+    "center_lon": 77.06189,
+    "min_lat": 28.59089,
+    "min_lon": 77.05932,
+    "max_lat": 28.59539,
+    "max_lon": 77.06445,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_3_0",
+    "center_lat": 28.59764,
+    "center_lon": 77.01571,
+    "min_lat": 28.59539,
+    "min_lon": 77.01315,
+    "max_lat": 28.5999,
+    "max_lon": 77.01828,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_3_1",
+    "center_lat": 28.59764,
+    "center_lon": 77.02084,
+    "min_lat": 28.59539,
+    "min_lon": 77.01828,
+    "max_lat": 28.5999,
+    "max_lon": 77.02341,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_3_2",
+    "center_lat": 28.59764,
+    "center_lon": 77.02597,
+    "min_lat": 28.59539,
+    "min_lon": 77.02341,
+    "max_lat": 28.5999,
+    "max_lon": 77.02854,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_3_3",
+    "center_lat": 28.59764,
+    "center_lon": 77.0311,
+    "min_lat": 28.59539,
+    "min_lon": 77.02854,
+    "max_lat": 28.5999,
+    "max_lon": 77.03367,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_3_4",
+    "center_lat": 28.59764,
+    "center_lon": 77.03623,
+    "min_lat": 28.59539,
+    "min_lon": 77.03367,
+    "max_lat": 28.5999,
+    "max_lon": 77.0388,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_3_5",
+    "center_lat": 28.59764,
+    "center_lon": 77.04137,
+    "min_lat": 28.59539,
+    "min_lon": 77.0388,
+    "max_lat": 28.5999,
+    "max_lon": 77.04393,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_3_6",
+    "center_lat": 28.59764,
+    "center_lon": 77.0465,
+    "min_lat": 28.59539,
+    "min_lon": 77.04393,
+    "max_lat": 28.5999,
+    "max_lon": 77.04906,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_3_7",
+    "center_lat": 28.59764,
+    "center_lon": 77.05163,
+    "min_lat": 28.59539,
+    "min_lon": 77.04906,
+    "max_lat": 28.5999,
+    "max_lon": 77.05419,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_3_8",
+    "center_lat": 28.59764,
+    "center_lon": 77.05676,
+    "min_lat": 28.59539,
+    "min_lon": 77.05419,
+    "max_lat": 28.5999,
+    "max_lon": 77.05932,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_3_9",
+    "center_lat": 28.59764,
+    "center_lon": 77.06189,
+    "min_lat": 28.59539,
+    "min_lon": 77.05932,
+    "max_lat": 28.5999,
+    "max_lon": 77.06445,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_4_0",
+    "center_lat": 28.60215,
+    "center_lon": 77.01571,
+    "min_lat": 28.5999,
+    "min_lon": 77.01315,
+    "max_lat": 28.6044,
+    "max_lon": 77.01828,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_4_1",
+    "center_lat": 28.60215,
+    "center_lon": 77.02084,
+    "min_lat": 28.5999,
+    "min_lon": 77.01828,
+    "max_lat": 28.6044,
+    "max_lon": 77.02341,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_4_2",
+    "center_lat": 28.60215,
+    "center_lon": 77.02597,
+    "min_lat": 28.5999,
+    "min_lon": 77.02341,
+    "max_lat": 28.6044,
+    "max_lon": 77.02854,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_4_3",
+    "center_lat": 28.60215,
+    "center_lon": 77.0311,
+    "min_lat": 28.5999,
+    "min_lon": 77.02854,
+    "max_lat": 28.6044,
+    "max_lon": 77.03367,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_4_4",
+    "center_lat": 28.60215,
+    "center_lon": 77.03623,
+    "min_lat": 28.5999,
+    "min_lon": 77.03367,
+    "max_lat": 28.6044,
+    "max_lon": 77.0388,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_4_5",
+    "center_lat": 28.60215,
+    "center_lon": 77.04137,
+    "min_lat": 28.5999,
+    "min_lon": 77.0388,
+    "max_lat": 28.6044,
+    "max_lon": 77.04393,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_4_6",
+    "center_lat": 28.60215,
+    "center_lon": 77.0465,
+    "min_lat": 28.5999,
+    "min_lon": 77.04393,
+    "max_lat": 28.6044,
+    "max_lon": 77.04906,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_4_7",
+    "center_lat": 28.60215,
+    "center_lon": 77.05163,
+    "min_lat": 28.5999,
+    "min_lon": 77.04906,
+    "max_lat": 28.6044,
+    "max_lon": 77.05419,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_4_8",
+    "center_lat": 28.60215,
+    "center_lon": 77.05676,
+    "min_lat": 28.5999,
+    "min_lon": 77.05419,
+    "max_lat": 28.6044,
+    "max_lon": 77.05932,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_4_9",
+    "center_lat": 28.60215,
+    "center_lon": 77.06189,
+    "min_lat": 28.5999,
+    "min_lon": 77.05932,
+    "max_lat": 28.6044,
+    "max_lon": 77.06445,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_5_0",
+    "center_lat": 28.60665,
+    "center_lon": 77.01571,
+    "min_lat": 28.6044,
+    "min_lon": 77.01315,
+    "max_lat": 28.6089,
+    "max_lon": 77.01828,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_5_1",
+    "center_lat": 28.60665,
+    "center_lon": 77.02084,
+    "min_lat": 28.6044,
+    "min_lon": 77.01828,
+    "max_lat": 28.6089,
+    "max_lon": 77.02341,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_5_2",
+    "center_lat": 28.60665,
+    "center_lon": 77.02597,
+    "min_lat": 28.6044,
+    "min_lon": 77.02341,
+    "max_lat": 28.6089,
+    "max_lon": 77.02854,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_5_3",
+    "center_lat": 28.60665,
+    "center_lon": 77.0311,
+    "min_lat": 28.6044,
+    "min_lon": 77.02854,
+    "max_lat": 28.6089,
+    "max_lon": 77.03367,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_5_4",
+    "center_lat": 28.60665,
+    "center_lon": 77.03623,
+    "min_lat": 28.6044,
+    "min_lon": 77.03367,
+    "max_lat": 28.6089,
+    "max_lon": 77.0388,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_5_5",
+    "center_lat": 28.60665,
+    "center_lon": 77.04137,
+    "min_lat": 28.6044,
+    "min_lon": 77.0388,
+    "max_lat": 28.6089,
+    "max_lon": 77.04393,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_5_6",
+    "center_lat": 28.60665,
+    "center_lon": 77.0465,
+    "min_lat": 28.6044,
+    "min_lon": 77.04393,
+    "max_lat": 28.6089,
+    "max_lon": 77.04906,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_5_7",
+    "center_lat": 28.60665,
+    "center_lon": 77.05163,
+    "min_lat": 28.6044,
+    "min_lon": 77.04906,
+    "max_lat": 28.6089,
+    "max_lon": 77.05419,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_5_8",
+    "center_lat": 28.60665,
+    "center_lon": 77.05676,
+    "min_lat": 28.6044,
+    "min_lon": 77.05419,
+    "max_lat": 28.6089,
+    "max_lon": 77.05932,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_5_9",
+    "center_lat": 28.60665,
+    "center_lon": 77.06189,
+    "min_lat": 28.6044,
+    "min_lon": 77.05932,
+    "max_lat": 28.6089,
+    "max_lon": 77.06445,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_6_0",
+    "center_lat": 28.61116,
+    "center_lon": 77.01571,
+    "min_lat": 28.6089,
+    "min_lon": 77.01315,
+    "max_lat": 28.61341,
+    "max_lon": 77.01828,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_6_1",
+    "center_lat": 28.61116,
+    "center_lon": 77.02084,
+    "min_lat": 28.6089,
+    "min_lon": 77.01828,
+    "max_lat": 28.61341,
+    "max_lon": 77.02341,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_6_2",
+    "center_lat": 28.61116,
+    "center_lon": 77.02597,
+    "min_lat": 28.6089,
+    "min_lon": 77.02341,
+    "max_lat": 28.61341,
+    "max_lon": 77.02854,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_6_3",
+    "center_lat": 28.61116,
+    "center_lon": 77.0311,
+    "min_lat": 28.6089,
+    "min_lon": 77.02854,
+    "max_lat": 28.61341,
+    "max_lon": 77.03367,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_6_4",
+    "center_lat": 28.61116,
+    "center_lon": 77.03623,
+    "min_lat": 28.6089,
+    "min_lon": 77.03367,
+    "max_lat": 28.61341,
+    "max_lon": 77.0388,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_6_5",
+    "center_lat": 28.61116,
+    "center_lon": 77.04137,
+    "min_lat": 28.6089,
+    "min_lon": 77.0388,
+    "max_lat": 28.61341,
+    "max_lon": 77.04393,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_6_6",
+    "center_lat": 28.61116,
+    "center_lon": 77.0465,
+    "min_lat": 28.6089,
+    "min_lon": 77.04393,
+    "max_lat": 28.61341,
+    "max_lon": 77.04906,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_6_7",
+    "center_lat": 28.61116,
+    "center_lon": 77.05163,
+    "min_lat": 28.6089,
+    "min_lon": 77.04906,
+    "max_lat": 28.61341,
+    "max_lon": 77.05419,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_6_8",
+    "center_lat": 28.61116,
+    "center_lon": 77.05676,
+    "min_lat": 28.6089,
+    "min_lon": 77.05419,
+    "max_lat": 28.61341,
+    "max_lon": 77.05932,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_6_9",
+    "center_lat": 28.61116,
+    "center_lon": 77.06189,
+    "min_lat": 28.6089,
+    "min_lon": 77.05932,
+    "max_lat": 28.61341,
+    "max_lon": 77.06445,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_7_0",
+    "center_lat": 28.61566,
+    "center_lon": 77.01571,
+    "min_lat": 28.61341,
+    "min_lon": 77.01315,
+    "max_lat": 28.61791,
+    "max_lon": 77.01828,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_7_1",
+    "center_lat": 28.61566,
+    "center_lon": 77.02084,
+    "min_lat": 28.61341,
+    "min_lon": 77.01828,
+    "max_lat": 28.61791,
+    "max_lon": 77.02341,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_7_2",
+    "center_lat": 28.61566,
+    "center_lon": 77.02597,
+    "min_lat": 28.61341,
+    "min_lon": 77.02341,
+    "max_lat": 28.61791,
+    "max_lon": 77.02854,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_7_3",
+    "center_lat": 28.61566,
+    "center_lon": 77.0311,
+    "min_lat": 28.61341,
+    "min_lon": 77.02854,
+    "max_lat": 28.61791,
+    "max_lon": 77.03367,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_7_4",
+    "center_lat": 28.61566,
+    "center_lon": 77.03623,
+    "min_lat": 28.61341,
+    "min_lon": 77.03367,
+    "max_lat": 28.61791,
+    "max_lon": 77.0388,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_7_5",
+    "center_lat": 28.61566,
+    "center_lon": 77.04137,
+    "min_lat": 28.61341,
+    "min_lon": 77.0388,
+    "max_lat": 28.61791,
+    "max_lon": 77.04393,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_7_6",
+    "center_lat": 28.61566,
+    "center_lon": 77.0465,
+    "min_lat": 28.61341,
+    "min_lon": 77.04393,
+    "max_lat": 28.61791,
+    "max_lon": 77.04906,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_7_7",
+    "center_lat": 28.61566,
+    "center_lon": 77.05163,
+    "min_lat": 28.61341,
+    "min_lon": 77.04906,
+    "max_lat": 28.61791,
+    "max_lon": 77.05419,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_7_8",
+    "center_lat": 28.61566,
+    "center_lon": 77.05676,
+    "min_lat": 28.61341,
+    "min_lon": 77.05419,
+    "max_lat": 28.61791,
+    "max_lon": 77.05932,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_7_9",
+    "center_lat": 28.61566,
+    "center_lon": 77.06189,
+    "min_lat": 28.61341,
+    "min_lon": 77.05932,
+    "max_lat": 28.61791,
+    "max_lon": 77.06445,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_8_0",
+    "center_lat": 28.62017,
+    "center_lon": 77.01571,
+    "min_lat": 28.61791,
+    "min_lon": 77.01315,
+    "max_lat": 28.62242,
+    "max_lon": 77.01828,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_8_1",
+    "center_lat": 28.62017,
+    "center_lon": 77.02084,
+    "min_lat": 28.61791,
+    "min_lon": 77.01828,
+    "max_lat": 28.62242,
+    "max_lon": 77.02341,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_8_2",
+    "center_lat": 28.62017,
+    "center_lon": 77.02597,
+    "min_lat": 28.61791,
+    "min_lon": 77.02341,
+    "max_lat": 28.62242,
+    "max_lon": 77.02854,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_8_3",
+    "center_lat": 28.62017,
+    "center_lon": 77.0311,
+    "min_lat": 28.61791,
+    "min_lon": 77.02854,
+    "max_lat": 28.62242,
+    "max_lon": 77.03367,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_8_4",
+    "center_lat": 28.62017,
+    "center_lon": 77.03623,
+    "min_lat": 28.61791,
+    "min_lon": 77.03367,
+    "max_lat": 28.62242,
+    "max_lon": 77.0388,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_8_5",
+    "center_lat": 28.62017,
+    "center_lon": 77.04137,
+    "min_lat": 28.61791,
+    "min_lon": 77.0388,
+    "max_lat": 28.62242,
+    "max_lon": 77.04393,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_8_6",
+    "center_lat": 28.62017,
+    "center_lon": 77.0465,
+    "min_lat": 28.61791,
+    "min_lon": 77.04393,
+    "max_lat": 28.62242,
+    "max_lon": 77.04906,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_8_7",
+    "center_lat": 28.62017,
+    "center_lon": 77.05163,
+    "min_lat": 28.61791,
+    "min_lon": 77.04906,
+    "max_lat": 28.62242,
+    "max_lon": 77.05419,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_8_8",
+    "center_lat": 28.62017,
+    "center_lon": 77.05676,
+    "min_lat": 28.61791,
+    "min_lon": 77.05419,
+    "max_lat": 28.62242,
+    "max_lon": 77.05932,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_8_9",
+    "center_lat": 28.62017,
+    "center_lon": 77.06189,
+    "min_lat": 28.61791,
+    "min_lon": 77.05932,
+    "max_lat": 28.62242,
+    "max_lon": 77.06445,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_9_0",
+    "center_lat": 28.62467,
+    "center_lon": 77.01571,
+    "min_lat": 28.62242,
+    "min_lon": 77.01315,
+    "max_lat": 28.62692,
+    "max_lon": 77.01828,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_9_1",
+    "center_lat": 28.62467,
+    "center_lon": 77.02084,
+    "min_lat": 28.62242,
+    "min_lon": 77.01828,
+    "max_lat": 28.62692,
+    "max_lon": 77.02341,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_9_2",
+    "center_lat": 28.62467,
+    "center_lon": 77.02597,
+    "min_lat": 28.62242,
+    "min_lon": 77.02341,
+    "max_lat": 28.62692,
+    "max_lon": 77.02854,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_9_3",
+    "center_lat": 28.62467,
+    "center_lon": 77.0311,
+    "min_lat": 28.62242,
+    "min_lon": 77.02854,
+    "max_lat": 28.62692,
+    "max_lon": 77.03367,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_9_4",
+    "center_lat": 28.62467,
+    "center_lon": 77.03623,
+    "min_lat": 28.62242,
+    "min_lon": 77.03367,
+    "max_lat": 28.62692,
+    "max_lon": 77.0388,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_9_5",
+    "center_lat": 28.62467,
+    "center_lon": 77.04137,
+    "min_lat": 28.62242,
+    "min_lon": 77.0388,
+    "max_lat": 28.62692,
+    "max_lon": 77.04393,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_9_6",
+    "center_lat": 28.62467,
+    "center_lon": 77.0465,
+    "min_lat": 28.62242,
+    "min_lon": 77.04393,
+    "max_lat": 28.62692,
+    "max_lon": 77.04906,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_9_7",
+    "center_lat": 28.62467,
+    "center_lon": 77.05163,
+    "min_lat": 28.62242,
+    "min_lon": 77.04906,
+    "max_lat": 28.62692,
+    "max_lon": 77.05419,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_9_8",
+    "center_lat": 28.62467,
+    "center_lon": 77.05676,
+    "min_lat": 28.62242,
+    "min_lon": 77.05419,
+    "max_lat": 28.62692,
+    "max_lon": 77.05932,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  },
+  {
+    "id": "Grid_9_9",
+    "center_lat": 28.62467,
+    "center_lon": 77.06189,
+    "min_lat": 28.62242,
+    "min_lon": 77.05932,
+    "max_lat": 28.62692,
+    "max_lon": 77.06445,
+    "b1_metrics": {
+      "schools": 0,
+      "clinics": 0,
+      "cafes": 0
+    },
+    "b3_real_estate": {
+      "avg_rent": null,
+      "proxy_income": null,
+      "night_light_intensity": null
+    }
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "statusCode": 200,
+  "messageCode": "OK",
+  "data": [
+    {
+      "id": null,
+      "emi": null,
+      "url": null,
+      "name": null,
+      "brands": null,
+      "coords": null,
+      "seller": null,
+      "address": null,
+      "details": null,
+      "ratings": null,
+      "reviews": null,
+      "currency": null,
+      "features": null,
+      "insights": null,
+      "subtitle": null,
+      "image_url": null,
+      "max_price": null,
+      "min_price": null,
+      "highlights": null,
+      "promotions": null,
+      "description": null,
+      "posted_date": null,
+      "video_tours": null,
+      "polygons_hash": null,
+      "property_tags": null,
+      "near_by_places": null,
+      "is_most_contacted": null,
+      "is_active_property": null,
+      "price_display_value": null,
+      "property_information": null,
+      "current_possession_status": null
+    }
+  ]
+}
